@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetConnect_v1", "VetConnect_v1.csproj", "{8F2556C7-23A2-0402-76CD-0146286F631E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2556C7-23A2-0402-76CD-0146286F631E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2556C7-23A2-0402-76CD-0146286F631E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2556C7-23A2-0402-76CD-0146286F631E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2556C7-23A2-0402-76CD-0146286F631E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FCA5C81-2347-4A42-BF88-1A7BECD8E215}
+	EndGlobalSection
+EndGlobal
