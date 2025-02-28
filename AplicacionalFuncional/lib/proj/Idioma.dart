@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+class IdiomaScreen extends StatelessWidget {
+  const IdiomaScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Center(
+          child: Text(
+            'Seleccionar Idioma',
+            style: TextStyle(color: Colors.white),
+          ),
+        ),
+        backgroundColor: const Color(0xFFA67B5B),
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back, color: Colors.white),
+          onPressed: () => Navigator.pop(context),
+        ),
+      ),
+      body: Container(
+        color: const Color(0xFFF5EEC8),
+        padding: const EdgeInsets.all(20),
+        child: Column(
+          children: [
+            const Text(
+              'Selecciona el idioma de la aplicación:',
+              style: TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+                color: Color(0xFF5D4037), // Updated color here
+              ),
+            ),
+            const SizedBox(height: 20),
+            ListTile(
+              leading: const Icon(Icons.language, color: Color(0xFFA67B5B)),
+              title: const Text('Español'),
+              onTap: () {
+                Get.updateLocale(const Locale('es', 'ES'));
+                Get.back();
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.language, color: Color(0xFFA67B5B)),
+              title: const Text('Inglés'),
+              onTap: () {
+                Get.updateLocale(const Locale('en', 'US'));
+                Get.back();
+              },
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
