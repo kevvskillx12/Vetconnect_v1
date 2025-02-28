@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-VetConnect_v1",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-VetConnect_v1",
+      "appliesTo": "publish/VetConnect_v1.pdb",
+      "type": "launch"
+    }
+  ]
+}
