@@ -1,4 +1,4 @@
-# # 🐶 VetConnect v1 - Tu Solución para el Cuidado de Mascotas 🐱  
+🐶 VetConnect v1 - Tu Solución para el Cuidado de Mascotas 🐱  
 
 
 En la actualidad, las mascotas son consideradas parte de la familia, y su bienestar es una prioridad para sus dueños. 
