@@ -26,10 +26,11 @@ Una plataforma innovadora que mejora la comunicación entre dueños de mascotas 
 ## ⚙️ **Características de VetConnect:**
 
 - ✅ **Agendamiento de citas en línea**: **Reserva rápida** con veterinarios cercanos sin largas esperas.
-- ✅ **Búsqueda avanzada de veterinarios**: Filtra por **ubicación**, **especialidad** y **reseñas** de otros usuarios.
-- ✅ **Recordatorios automáticos**: Recibe notificaciones sobre **vacunas**, **desparasitaciones** y **chequeos**.
+- ✅ **Búsqueda avanzada de veterinarios**: Filtra por **Ubicación**, **Nombre**
 - ✅ **Optimización de agenda**: Control **eficiente** de citas y disponibilidad en tiempo real.
 - ✅ **Expedientes digitales**: Registro detallado de consultas, tratamientos y evolución de cada mascota.
+- ✅ **Administracion de mascotas**: Podras ver los datos de tu mascota que hayas registrado
+- ✅ **Chatbot**: Podras usarlo por si tienes alguna duda o quieres saber mas informacion acerca de las mascota.
 
 ---
 
