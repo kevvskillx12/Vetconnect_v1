@@ -41,7 +41,7 @@ Una plataforma innovadora que mejora la comunicación entre dueños de mascotas 
 
 ## 💡 **Próximos Pasos**:
 
-1. **Crea tu cuenta** en [VetConnect](#).
+1. **Crea tu cuenta** en la app VetConnect.
 2. **Configura el perfil** de tu mascota.
 3. **Reserva tu primera cita** con un veterinario cercano.
 4. **Mantén el seguimiento** de la salud de tu mascota al día.
